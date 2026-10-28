@@ -4,7 +4,7 @@ ac.log('PlateText: script yukleniyor (v3.17-server)')
 -- Server csp_extra_options.ini icinde bu faylin URL-i verilir.
 -- Gorsel fayllar (plate_bg.png, logo.png, glyphs/) internetde olmalidir.
 -- ============================================================
-local ASSET_BASE = 'https://raw.githubusercontent.com/SENIN_ADIN/SENIN_REPO/main/'   -- <-- BUNU DEYIS (sonu '/' ile bitsin)
+local ASSET_BASE = 'https://raw.githubusercontent.com/zloy77/azemp-plate-app/main/'   -- <-- BUNU DEYIS (sonu '/' ile bitsin)
 local TOGGLE_KEY = ui.KeyIndex.M       -- <-- plaka penceresini acib-baglayan duymə (oyunda Controls-dan da deyisdirile biler)
 local function asset(p) return ASSET_BASE .. p end
 
