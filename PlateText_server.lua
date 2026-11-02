@@ -38,7 +38,7 @@ local CONFIG = {
     'Material #235',
     'PLATE_F',
     'plates',
-    -- 'YENI_MATERIAL_ADI',
+    'EXT_PLATE',
   },
   -- Tekstur fayl adlari (meselen 'plate.dds'). Material adi ferqli olan masinlar ucun.
   textureNames = {
