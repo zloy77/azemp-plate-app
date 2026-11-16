@@ -22,6 +22,7 @@ local CONFIG = {
     'license_plate', 'License_Plate', 'LicensePlate', 'plate', 'Plate',
     -- AzeMP masinlarindan elave olunanlar
     '901',
+    '90AP400',
     'sonata_plate',
     'plates1',
     'ext_plate330I',
