@@ -19,8 +19,11 @@ local CONFIG = {
     'license_plate(520x110)',
     'license_plate?520x110?',
     'license_plate*',
-    'license_plate', 'License_Plate', 'LicensePlate', 'plate', 'Plate',
-    -- AzeMP masinlarindan elave olunanlar
+    'license_plate', 
+    'License_Plate', 
+    'LicensePlate', 
+    'plate', 
+    'Plate',
     '901',
     '90AP400',
     'sonata_plate',
@@ -40,6 +43,7 @@ local CONFIG = {
     'PLATE_F',
     'plates',
     'EXT_PLATE',
+    'license_plate_F.001',
   },
   -- Tekstur fayl adlari (meselen 'plate.dds'). Material adi ferqli olan masinlar ucun.
   textureNames = {
