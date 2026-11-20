@@ -44,7 +44,8 @@ local CONFIG = {
     'plates',
     'EXT_PLATE',
     'license_plate_F.001',
-  },
+    'license_plate(520x110).001',
+    },
   -- Tekstur fayl adlari (meselen 'plate.dds'). Material adi ferqli olan masinlar ucun.
   textureNames = {
     -- 'plate.dds',
